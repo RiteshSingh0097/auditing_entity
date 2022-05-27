@@ -4,8 +4,8 @@ POC to audit entity changes
 curl --location --request POST 'http://localhost:8080/data' \
 --header 'Content-Type: application/json' \
 --data-raw '{
-"userName": "riteshsingh@cashify.in",
+"userName": "riteshsinghxxx@gmail.in",
 "address": {
-"contact": 9936605203
+"contact": 99300000
 }
 }'
